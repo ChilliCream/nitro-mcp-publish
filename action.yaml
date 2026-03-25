@@ -2,7 +2,7 @@ name: "Nitro MCP Publish"
 description: "Publishes MCP feature collections to the Nitro registry"
 author: "ChilliCream"
 branding:
-  icon: "upload-cloud"
+  icon: "send"
   color: "red"
 
 inputs:
